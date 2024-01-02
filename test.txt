@@ -1,0 +1,7 @@
+- script
+  - app
+    - app.ts
+  - common
+    - logger.ts
+  - library
+    - jet.ts

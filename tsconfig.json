@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "commonjs",
+    "outDir": "./dist",
+    "rootDir": "./script",
+    "strict": true,
+  },
+  "include": ["./script/**/*.ts", "script/library/jet.js"],
+  "exclude": ["node_modules"]
+}
